@@ -6,7 +6,7 @@
 
 ## Submission:
 
-- Push your solution to the github repo created 
+- Push your solution to the github repository created 
 
 - submit the URL on the application form here: https://bit.ly/SCA-mentee-C3
 
